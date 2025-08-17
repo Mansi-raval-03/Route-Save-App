@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547972805362",
+    "project_id": "route-saver-app",
+    "storage_bucket": "route-saver-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547972805362:android:78ce8c2fcb8b41faa6566b",
+        "android_client_info": {
+          "package_name": "com.example.routesaver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2AeXRv7hQp8ZhUwRNI_iwPHT0k-YG2ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
