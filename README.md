@@ -1,16 +1,15 @@
-# routesaver_app
+# Route-Save-App 🚗🛠️
+A real-time problem-solving app for vehicle breakdowns and emergencies.
 
-A new Flutter project.
+## Features
+- One-tap “Help Me” button.
+- Share live location with trusted contacts.
+- Connect with nearby mechanics, towing, or fuel delivery.
+- Real-time availability of service providers.
+- Emergency message alerts.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/Mansi-raval-03/Route-Save-App.git
+   cd Route-Save-App
